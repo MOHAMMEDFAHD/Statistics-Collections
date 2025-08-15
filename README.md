@@ -2,7 +2,7 @@
 
 Welcome to **Artistic Statistics**, a beautifully engineered, output-rich Jupyter Notebook created in Google Colab. This project explores every imaginable statistical plot, chart, and model evaluation dashboard — perfect for data science portfolios, teaching, research, or just going crazy with creativity.
 
-![Preview](https://github.com/your-username/your-repo-name/raw/main/preview.png) <!-- Optional image if added -->
+![Preview](https://github.com/MOHAMMEDFAHD/Statistics-Collections/raw/main/preview.png) <!-- Optional image if added -->
 
 ---
 
