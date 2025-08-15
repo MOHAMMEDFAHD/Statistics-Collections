@@ -40,7 +40,7 @@ Click below to run the notebook interactively:
 
 ### 🔹 Option 2: Binder (Interactive GitHub Execution)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MOHAMMEDFAHD/Statistics-collections/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MOHAMMEDFAHD/Statistics-Collections/HEAD)
 
 ---
 
